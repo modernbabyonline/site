@@ -46,8 +46,16 @@ copyright = "&copy;2018 Modern Baby Online"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Login"
+        text = "Donor Intake"
         url = "https://app.modernbaby.online"
+
+      [[params.links.list1.link]]
+        text = "Client Intake"
+        url = "https://calendly.com/modern-baby"
+
+      [[params.links.list1.link]]
+        text = "Client Ordering"
+        url = "https://modern-baby-online.myshopify.com/"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
