@@ -46,7 +46,7 @@ copyright = "&copy;2018 Modern Baby Online"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Donor Intake"
+        text = "Login"
         url = "https://app.modernbaby.online"
 
       [[params.links.list1.link]]
